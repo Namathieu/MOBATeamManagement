@@ -1,3 +1,9 @@
+"""
+MOBA Team Management System
+Version: V0.1.0
+Author: Namathieu
+"""
+
 import tkinter as tk
 from tkinter import ttk, messagebox, filedialog
 import json
