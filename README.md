@@ -1,2 +1,2 @@
 # MOBA Team Management
-An ESMO addon to manage MOBA Teams
+An ESMO third party app to manage MOBA Teams
